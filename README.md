@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FThingsLikeClaude%2Fani-steer-public%2Fmain%2Fplugins%2Fjev-steer%2F.claude-plugin%2Fplugin.json&query=%24.version&label=version&color=b57cf6&style=flat-square" alt="version">
   <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-4e9be0?style=flat-square" alt="macOS | Linux | Windows">
   <a href="https://typesafe.ai"><img src="https://img.shields.io/badge/judged_by-Jev%20%C2%B7%20TypeSafe-2fa88a?style=flat-square" alt="judged by Jev"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-d86c9a?style=flat-square" alt="MIT License"></a>
 </p>
 
 <p align="center">
@@ -291,7 +292,8 @@ ani-steer-public/
 │   ├── skills/ani-key/SKILL.md         키 설정 스킬
 │   ├── bin/ani-key.sh · ani-key.ps1    가려진 입력창으로 키 저장
 │   └── types/index.d.ts                데이터 타입
-└── PRD.md                              설계 문서
+├── PRD.md                              설계 문서
+└── LICENSE                             MIT
 ```
 
 ## 🙏 바탕
@@ -299,6 +301,10 @@ ani-steer-public/
 - [**ani**](https://github.com/ThingsLikeClaude/ani): Agent Negative Index. 교정을 F → S로 쌓는 원래 규약
 - [**Jev**](https://typesafe.ai): TypeSafe System One. 닫힌 질문에 빠르게 답하는 판정 모델
 - [**Claude Code**](https://docs.claude.com/en/docs/claude-code): 모드와 플러그인
+
+## 📄 라이선스
+
+[MIT](LICENSE) © ThingsLikeClaude
 
 <br>
 
